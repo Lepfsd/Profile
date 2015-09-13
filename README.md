@@ -1,6 +1,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-# Localisation module
+# Profile module
 This module add User Profile capabilities on your wonderful Asgard CMS!
 
 So you got this functionality:
