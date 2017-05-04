@@ -34,7 +34,7 @@ So you got this functionality:
 ```
 
 ## Installation
-Follow the [installation guide of module](https://asgardcms.com/en/docs/getting-started/installation#installing-modules-and-themes), with module name "abada/prfile".
+Follow the [installation guide of module](https://asgardcms.com/en/docs/getting-started/installation#installing-modules-and-themes), with module name "abada/profile".
 
 
 
